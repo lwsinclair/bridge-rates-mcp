@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-bridge-rates-mcp-badge.png)](https://mseep.ai/app/kukapay-bridge-rates-mcp)
+
 # Bridge Rates MCP Server
 
 An MCP server that delivers real-time cross-chain bridge rates and optimal transfer routes to support decision-making by onchain AI agents.
